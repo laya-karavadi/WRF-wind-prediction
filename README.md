@@ -1,6 +1,6 @@
 # Urban Wind Modeling with WRF
 
-![WRF Validation Example Plot](plots/wrf_vs_observed.png)  
+![WRF Validation Example Plot](/wrf_vs_observed.png)  
 *Example comparison of WRF predictions vs observed wind speeds*
 
 ## Project Description
